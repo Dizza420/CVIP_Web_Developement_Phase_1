@@ -74,7 +74,7 @@ body{
     margin: 5px;
 }
 
-.lang{
+#lang{
     background-color:rgb(37, 37, 37) ;
     text-align: center;
     color: #ffffff;
@@ -388,7 +388,7 @@ body{
     color: #898989;
 }
 
-.sec-8-lang{
+#sec-8-lang{
     background-color:rgb(37, 37, 37) ;
     text-align: center;
     color: #ffffff;
