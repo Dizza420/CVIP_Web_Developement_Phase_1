@@ -158,6 +158,11 @@ body{
     border-radius:0.2875rem;
 }
 
+.sec-1-bottom-form img{
+    position: relative;
+    top: 8px;
+    height: 30px;
+}
 
 .sec-2{
     display: flex;
