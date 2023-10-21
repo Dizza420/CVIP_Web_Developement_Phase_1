@@ -220,7 +220,7 @@ body{
     left:100px;
     padding: 10px;
     border: 2px rgb(121, 121, 121) solid;
-    border-radius:0.2rem;
+    border-radius:0.9rem;
     width: 400px;
     display: flex;
 }
