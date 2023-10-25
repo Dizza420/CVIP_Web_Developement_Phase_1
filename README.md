@@ -1,4 +1,1 @@
-# Netflicks
-
-A personal ongoing project aiming to emulate Netflix.
-<p>Live preview at <a href="https://netflicks-navy.vercel.app/">https://netflicks-navy.vercel.app</a></p>
+## This is a repository that contains project(s) that was done under <a href="https://www.coderscave.in">Coderscave.in</a>
