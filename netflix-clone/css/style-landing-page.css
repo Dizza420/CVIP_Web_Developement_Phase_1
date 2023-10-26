@@ -246,8 +246,10 @@ body{
 
 .demo-download-vid{
     height: 55px !important;
+    position: relative;
+    top: 17px;
+    left:70px;
     padding: 0;
-    margin:15px 0  0 10px;
 }
 
 .sec-4{
