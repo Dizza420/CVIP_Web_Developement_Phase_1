@@ -144,6 +144,8 @@ body{
     font-size: 20px;
     height: 100px;
     margin: 1em;
+    color:white;
+    text-decoration:none;
     border-radius:0.2875rem;
 }
 
